@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
 <<<<<<< HEAD
+<<<<<<< HEAD
 	<name>chess-system</name>
 =======
 	<name>Chess-system</name>
 >>>>>>> e1a0712 (Move pieces)
+=======
+	<name>Chess-system</name>
+>>>>>>> e1a0712187f510ac92155a60ccce29f1b225fd3e
 	<comment></comment>
 	<projects>
 	</projects>
