@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>chess-system</name>
+=======
+	<name>Chess-system</name>
+>>>>>>> e1a0712 (Move pieces)
 	<comment></comment>
 	<projects>
 	</projects>

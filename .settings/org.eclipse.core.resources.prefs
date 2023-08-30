@@ -1,2 +1,6 @@
 eclipse.preferences.version=1
+<<<<<<< HEAD
 encoding/<project>=ISO-8859-1
+=======
+encoding/<project>=UTF-8
+>>>>>>> e1a0712 (Move pieces)
