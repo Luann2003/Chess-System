@@ -1,10 +1,6 @@
 package boardgame;
 
-<<<<<<< HEAD
-public class Piece {
-=======
 public abstract class Piece {
->>>>>>> e1a0712 (Move pieces)
 	
 	protected Position position;
 	private Board board;
@@ -13,24 +9,16 @@ public abstract class Piece {
 		super();
 	}
 
-<<<<<<< HEAD
-	public Piece(Board boar) {
-=======
 	public Piece(Board board) {
->>>>>>> e1a0712 (Move pieces)
 		super();
 		this.board = board;
 		position = null;
 	}
 
-	protected Board getBoar() {
+	protected Board getBoard() {
 		return board;
 	}
 		
-<<<<<<< HEAD
-	
-	
-=======
 	public abstract boolean[][] possibleMoves();
 	
 	public boolean possibleMove(Position position) {
@@ -48,6 +36,5 @@ public abstract class Piece {
 		}
 		return false;
 	}
->>>>>>> e1a0712 (Move pieces)
 	
 }
