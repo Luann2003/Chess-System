@@ -1,0 +1,52 @@
+eclipse.preferences.version=1
+org.eclipse.jdt.core.compiler.codegen.inlineJsrBytecode=enabled
+<<<<<<< HEAD
+<<<<<<< HEAD
+org.eclipse.jdt.core.compiler.codegen.targetPlatform=17
+org.eclipse.jdt.core.compiler.codegen.unusedLocal=preserve
+org.eclipse.jdt.core.compiler.compliance=17
+=======
+org.eclipse.jdt.core.compiler.codegen.targetPlatform=18
+org.eclipse.jdt.core.compiler.codegen.unusedLocal=preserve
+org.eclipse.jdt.core.compiler.compliance=18
+>>>>>>> c1d10dc9e6bfd9f9ef7baeaf32223cb87324a7bc
+=======
+<<<<<<< HEAD
+org.eclipse.jdt.core.compiler.codegen.targetPlatform=18
+org.eclipse.jdt.core.compiler.codegen.unusedLocal=preserve
+org.eclipse.jdt.core.compiler.compliance=18
+=======
+org.eclipse.jdt.core.compiler.codegen.targetPlatform=17
+org.eclipse.jdt.core.compiler.codegen.unusedLocal=preserve
+org.eclipse.jdt.core.compiler.compliance=17
+>>>>>>> e1a0712 (Move pieces)
+=======
+org.eclipse.jdt.core.compiler.codegen.targetPlatform=17
+org.eclipse.jdt.core.compiler.codegen.unusedLocal=preserve
+org.eclipse.jdt.core.compiler.compliance=17
+>>>>>>> e1a0712187f510ac92155a60ccce29f1b225fd3e
+>>>>>>> 79fe75459f7c2d1ed7a0ebd420c7affea578c264
+org.eclipse.jdt.core.compiler.debug.lineNumber=generate
+org.eclipse.jdt.core.compiler.debug.localVariable=generate
+org.eclipse.jdt.core.compiler.debug.sourceFile=generate
+org.eclipse.jdt.core.compiler.problem.assertIdentifier=error
+org.eclipse.jdt.core.compiler.problem.enablePreviewFeatures=disabled
+org.eclipse.jdt.core.compiler.problem.enumIdentifier=error
+org.eclipse.jdt.core.compiler.problem.reportPreviewFeatures=warning
+org.eclipse.jdt.core.compiler.release=enabled
+<<<<<<< HEAD
+<<<<<<< HEAD
+org.eclipse.jdt.core.compiler.source=17
+=======
+org.eclipse.jdt.core.compiler.source=18
+>>>>>>> c1d10dc9e6bfd9f9ef7baeaf32223cb87324a7bc
+=======
+<<<<<<< HEAD
+org.eclipse.jdt.core.compiler.source=18
+=======
+org.eclipse.jdt.core.compiler.source=17
+>>>>>>> e1a0712 (Move pieces)
+=======
+org.eclipse.jdt.core.compiler.source=17
+>>>>>>> e1a0712187f510ac92155a60ccce29f1b225fd3e
+>>>>>>> 79fe75459f7c2d1ed7a0ebd420c7affea578c264
