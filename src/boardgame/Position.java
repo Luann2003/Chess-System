@@ -38,9 +38,5 @@ public class Position {
 		this.row = row;
 		this.column = column;
 	}
-	
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 79fe75459f7c2d1ed7a0ebd420c7affea578c264
+
